@@ -1,0 +1,76 @@
+Day 1 	28th March
+------------------
+#Data Types
+Numbers
+Strings
+Printings
+Lists
+Dictionaries
+Booleans
+Tuples
+Sets
+#Comparison Operators
+#if,elif,else Statements
+#for Loops
+#While Loops
+#Range()
+#List Comprehension
+#functions
+#Lambda expression
+#map and filter
+#methods
+**********
+NumPy
+------
+np.array
+np.arange
+np.zeros
+np.ones
+np.linspace
+np.eye
+np.random.rand
+np.random.randn
+np.random.randint 
+conditional operation(boolian)
+***************
+Pandas
+------
+#Series
+#dataframes1
+#dataframes2
+#dataframes3--
+#missing
+#groupBy
+#merge,joining and concat
+#operation
+#Data Input and Output
+
+Day#3
+-----
+#Dist Plot 
+*sns.distplot kde=TRUE
+*sns.joinplot kind=rig
+*sns.pairplot
+*sns.rugplot
+#Catagerical plot
+*sns.barplot x,y,data
+*sns.countplot
+*sns.boxplot x,y,data
+*sns.violinplot x,y,data
+*sns.stripplot
+*sns.factorplot ,kind=violin
+Matrixplot
+*heatmap
+*clustermap
+Grid
+*sns.PairGrid
+*sns.FacetGrid
+Regression
+*sns.lmplot x,y,data,col
+Style and Color
+*sns.set_style('dark')
+
+
+
+
+
